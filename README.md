@@ -4,7 +4,12 @@
 
 ## Screenshots
 
-<img src="" width="300px" />
+<img src="_screenshots/main.png" width="500px" />
+<img src="_screenshots/main2.png" width="500px" />
+<img src="_screenshots/mars.png" width="500px" />
+<img src="_screenshots/planet.png" width="500px" />
+<img src="_screenshots/planet_select.png" width="500px" />
+<img src="_screenshots/training.png" width="500px" />
 
 
 ## Dependencies
